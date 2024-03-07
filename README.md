@@ -12,10 +12,10 @@ Hi! My name is Ashutosh Yadav 😄
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/yadav-ashutosh/">
+  <a href="https://www.linkedin.com/in/yadav-ashutosh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/ashutosh513/">
+  <a href="https://leetcode.com/ashutosh513/" target="_blank">
     <img src="https://img.shields.io/badge/leetcode-blue?style=for-the-badge&logo=leetcode&logoColor=orange" alt="Leetcode Badge"/>
   </a>
 </div>
